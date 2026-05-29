@@ -1,0 +1,9 @@
+Mantener un registro de cambios en proyectos de software es fundamental para la organizaciC3n y la trazabilidad.
+Con Git, cada modificaciC3n queda documentada y se puede identificar quiC)n la hizo y por quC).
+Esto facilita la colaboraciC3n entre varios desarrolladores y evita conflictos en el cC3digo.
+AdemC!s, permite regresar a versiones anteriores si ocurre un error.
+El control de versiones tambiC)n ayuda a cumplir estC!ndares de calidad y auditorC-as.
+Es una herramienta que fomenta buenas prC!cticas y disciplina en el desarrollo.
+Gracias a Git, los proyectos son mC!s seguros y confiables.
+En conclusiC3n, usar Git mejora la eficiencia y la transparencia en el trabajo en equipo.
+
